@@ -5,19 +5,58 @@
 
 ---
 
-## 🎯 About Me
-- <span style="color:lightseagreen;">Full‑stack developer with hands‑on experience in</span> <span style="color:darkorange; font-weight:bold;">Vue.js, Pinia, PHP, MySQL, Node.js, Express.js</span>  
-- <span style="color:lightseagreen;">Passionate about</span> <span style="color:darkorange; font-weight:bold;">software architecture, API integration, and database design</span>  
-- <span style="color:lightseagreen;">Currently working on academic + indie projects including</span> <span style="color:darkorange; font-weight:bold;">UniSpace and EcoVale</span>  
-- <span style="color:lightseagreen;">Strong foundation in</span> <span style="color:darkorange; font-weight:bold;">Data Structures & Algorithms, Operating Systems, and Advanced Programming</span>  
+## 👨‍💻 About Me
+
+```yaml
+- 🎯 Role: "Full-Stack Developer"
+- 💻 Specialization: "Vue.js, Pinia, PHP, MySQL, Node.js, Express.js"
+- 🚀 Passion: "Software Architecture, API Integration & Database Design"
+- 📚 Currently Working On: "UniSpace & EcoVale"
+- 🧠 Learning Focus: "Advanced Software Engineering & System Design"
+- 💬 Ask Me About: "Web Development, REST APIs, Databases, DSA"
+```
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack & Toolkit
 
-| **Languages** | **Frameworks** | **Databases** | **Tools** | **Concepts** |
-|---------------|----------------|---------------|-----------|--------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/> | 🛠 REST APIs • 🔑 JWT • 👥 RBAC • 📐 UML • 🗂 ERD • 🏗 Software Architecture |
+| 💻 Languages | ⚙️ Frameworks |
+|-------------|--------------|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TiDB](https://img.shields.io/badge/TiDB-EF3B2D?style=for-the-badge&logo=tidb&logoColor=white)
+
+### 🛠 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white)
+
+### 🏗️ Software Engineering Concepts
+
+```text
+✔ REST API Development
+✔ JWT Authentication
+✔ Role-Based Access Control (RBAC)
+✔ UML Modeling
+✔ Entity Relationship Design (ERD)
+✔ Software Architecture
+✔ Data Structures & Algorithms
+✔ Operating Systems
+```
 
 ---
 
