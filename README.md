@@ -1,12 +1,9 @@
 <div align="center">
 
-⚡ Hi, I'm Julkar Nahin ⚡  
+# ⚡ Hi, I'm Julkar Nahin ⚡
 🎓 Second Year B.Sc. (Software Engineering With Honours) | Universiti Teknologi Malaysia (MJIIT)  
 📍 Kuala Lumpur, Malaysia  
-📱 +60 14 253 5227 | 📧 julkarnahin615@gmail.com | 
-<a href="https://www.linkedin.com/in/julkar-nahin">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18" />
-</a> <a href="https://www.linkedin.com/in/julkar-nahin">LinkedIn</a> | 🌐 <a href="https://portfolio.julkar.com">Portfolio</a>
+📱 +60 14 253 5227 | 📧 julkarnahin615@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/julkar-nahin) | 🌐 [Portfolio](https://portfolio-julkar.vercel.app/)
 
 </div>
 
