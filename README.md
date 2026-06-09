@@ -134,12 +134,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulkarNahin&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JulkarNahin&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulkarNahin&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulkarNahin&layout=compact&theme=tokyonight)
 
 ---
 
-Streak Stats (alternative service)
+## 📊 Streak Stats (alternative service)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JulkarNahin&theme=tokyonight)
