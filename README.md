@@ -26,9 +26,10 @@
 
 ## 🛠 Tech Stack & Toolkit
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+
+<td valign="top" width="48%">
 
 ## 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -53,7 +54,9 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td width="4%"></td>
+
+<td valign="top" width="48%">
 
 ## 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,8 +79,10 @@
 ![LibGDX](https://img.shields.io/badge/LibGDX-4B3B8F?style=for-the-badge)
 
 </td>
+
 </tr>
 </table>
+
 ---
 
 ## 📌 Featured Projects
