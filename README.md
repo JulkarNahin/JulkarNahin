@@ -134,9 +134,23 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JulkarNahin&show_icons=true&theme=tokyonight)
+<table>
+<tr>
+<td width="55%">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulkarNahin&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulkarNahin&show_icons=true&theme=tokyonight" />
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulkarNahin&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=JulkarNahin&theme=tokyonight" />
 
 ---
 
