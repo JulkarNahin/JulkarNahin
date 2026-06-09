@@ -6,12 +6,16 @@
 ---
 
 ## 🎯 About Me
-- 🎯 <font color="orange">Role:</font> <font color="blue"><b>Full‑Stack Developer</b></font>  
-- 💻 <font color="orange">Specialization:</font> <font color="blue"><b>Vue.js, Pinia, PHP, MySQL, Node.js, Express.js</b></font>  
-- 🚀 <font color="orange">Passion:</font> <font color="blue"><b>Software Architecture & System Design, Application Development, Game Development (Indie, AA & AAA), Data Structures & Algorithms, Artificial Intelligence & Machine Learning</b></font>  
-- 📚 <font color="orange">Currently Working On:</font> <font color="blue"><b>Intelligent FYP Assessment Management System (I‑FAMOUS)</b></font>  
-- 🧠 <font color="orange">Learning Focus:</font> <font color="blue"><b>Advanced Software Engineering & System Design</b></font>  
-- 💬 <font color="orange">Ask Me About:</font> <font color="blue"><b>Web Development, REST APIs, Databases, Data Structures & Algorithms</b></font>  
+
+```yaml
+- 🎯 Role: "Full-Stack Developer"
+- 💻 Specialization: "Vue.js, Pinia, PHP, MySQL, Node.js, Express.js"
+- 🚀 Passion: "Software Architecture, System Design, Game Development, AI/ML, and Data Structures & Algorithms"
+- 📚 Currently Working On: "Intelligent FYP Assessment Management System (I-FAMOUS)"
+- 🧠 Learning Focus: "Advanced Software Engineering & System Design"
+- 💬 Ask Me About: "Web Development, REST APIs, Databases, Data Structures & Algorithms"
+```
+
 
 
 ---
