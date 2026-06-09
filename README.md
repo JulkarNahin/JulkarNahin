@@ -18,45 +18,141 @@
 
 ---
 
-# 🛠 Tech Stack & Toolkit
+# Hi there 👋 I'm [Your Name]
 
-| 💻 Languages | ⚙️ Frameworks |
-|-------------|--------------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
+### Full-Stack Developer | Software Engineering Student
+
+Building scalable web applications, RESTful APIs, and modern software solutions.
 
 ---
+
+## 🎯 About Me
+
+```yaml
+- 💻 Role: "Full-Stack Developer"
+- 🚀 Focus: "Vue.js, Node.js, PHP, MySQL"
+- 🏗️ Passion: "Software Architecture, API Integration & Database Design"
+- 📚 Currently Working On: "UniSpace & EcoVale"
+- 🧠 Learning: "System Design, Backend Architecture & Cloud Technologies"
+- 💬 Ask Me About: "Web Development, Databases, REST APIs, DSA"
+```
+
+---
+
+## 🛠 Tech Stack & Toolkit
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+
+<td valign="top" width="50%">
+
+### ⚙️ Frameworks & Libraries
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![TiDB](https://img.shields.io/badge/TiDB-EF3B2D?style=for-the-badge&logo=tidb&logoColor=white)
+
+</td>
+
+<td valign="top">
 
 ### 🛠 Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white)
 
-### 🏗️ Software Engineering Concepts
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗 Software Engineering Concepts
 
 ```text
-✔ REST API Development
-✔ JWT Authentication
-✔ Role-Based Access Control (RBAC)
-✔ UML Modeling
-✔ Entity Relationship Design (ERD)
-✔ Software Architecture
-✔ Data Structures & Algorithms
-✔ Operating Systems
+✓ REST API Development
+✓ JWT Authentication
+✓ Role-Based Access Control (RBAC)
+✓ UML Modeling
+✓ Entity Relationship Diagrams (ERD)
+✓ Software Architecture
+✓ Data Structures & Algorithms
+✓ Operating Systems
+✓ Database Design
+✓ Object-Oriented Programming
 ```
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 UniSpace
+University facility booking and management platform.
+
+**Tech Stack:** Vue.js, Pinia, Node.js, Express.js, MySQL
+
+### 🌱 EcoVale
+Sustainable community and environmental awareness platform.
+
+**Tech Stack:** Vue.js, PHP, MySQL
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: your.email@example.com
+- Portfolio: https://your-portfolio.com
 
 ---
 
