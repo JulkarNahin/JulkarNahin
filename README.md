@@ -132,28 +132,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Performance
 
-<table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JulkarNahin&theme=tokyonight&hide_border=true" />
+</p>
+
+<table align="center">
 <tr>
-<td width="55%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulkarNahin&show_icons=true&theme=tokyonight" />
-
+<td align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulkarNahin&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
 
-<td width="45%">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulkarNahin&layout=compact&theme=tokyonight" />
-
+<td align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulkarNahin&layout=compact&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=JulkarNahin&theme=tokyonight" />
-
 ---
 
-## 📊 Streak Stats (alternative service)
+## 🏆 Achievement Showcase
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JulkarNahin&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JulkarNahin&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
