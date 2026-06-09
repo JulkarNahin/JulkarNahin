@@ -1,7 +1,7 @@
 # ⚡ Hi, I'm Julkar Nahin ⚡
 🎓 Second Year B.Sc. (Software Engineering With Honours) | Universiti Teknologi Malaysia (MJIIT)  
 📍 Kuala Lumpur, Malaysia  
-🌐 [Portfolio](https://portfolio-julkar.vercel.app/) | [LinkedIn](https://linkedin.com/in/julkar-nahin) | 📧 julkarnahin615@gmail.com  
+📱 +60 14 253 5227 | 📧 julkarnahin615@gmail.com | [LinkedIn](https://linkedin.com/in/julkar-nahin) | 🌐 [Portfolio](https://portfolio-julkar.vercel.app/)
 
 ---
 
@@ -14,11 +14,13 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** C++, Java, Python, JavaScript, HTML, CSS  
-**Frameworks:** Vue.js, Node.js, Express.js, Pinia, TailwindCSS  
-**Databases:** MySQL, TiDB  
-**Tools:** Git, JIRA, Postman, VS Code, Eclipse, Laragon  
-**Concepts:** REST APIs, JWT Authentication, RBAC, UML, ERD, Software Architecture  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
