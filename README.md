@@ -26,9 +26,6 @@
 
 ## 🛠 Tech Stack & Toolkit
 
-```html
-<h2>🛠 Tech Stack & Toolkit</h2>
-
 <table>
 <tr>
 
@@ -91,7 +88,6 @@
 
 </tr>
 </table>
-```
 
 ---
 
