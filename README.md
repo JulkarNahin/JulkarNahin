@@ -102,20 +102,6 @@
 
 ---
 
-### 📐 Software Engineering Concepts
-
-- REST API Development  
-- JWT Authentication  
-- Role-Based Access Control (RBAC)  
-- UML Modeling  
-- Entity Relationship Design (ERD)  
-- Software Architecture  
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- Design Patterns
-
----
-
 ## 📌 Featured Projects
 - **I‑FAMOUS** – Intelligent FYP Assessment Management System (Vue.js, TailwindCSS, Node.js, Express.js, MySQL)  
 - **Library Duty Management System** – Automated scheduling for 100+ students (Vue.js, Node.js, Express.js, MySQL)  
