@@ -26,6 +26,8 @@
 
 ## 🛠 Tech Stack & Toolkit
 
+<h2>🛠 Tech Stack & Toolkit</h2>
+
 <table>
 <tr>
 
@@ -46,12 +48,16 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge)
 
+<br><br>
+
 ---
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TiDB](https://img.shields.io/badge/TiDB-EF3B2D?style=for-the-badge)
+
+<br><br><br>
 
 </td>
 
@@ -76,6 +82,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+<br>
+
 ---
 
 ### 🎮 Game Development
@@ -84,10 +92,26 @@
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![LibGDX](https://img.shields.io/badge/LibGDX-4B3B7F?style=for-the-badge)
 
+<br><br>
+
 </td>
 
 </tr>
 </table>
+
+---
+
+### 📐 Software Engineering Concepts
+
+- REST API Development  
+- JWT Authentication  
+- Role-Based Access Control (RBAC)  
+- UML Modeling  
+- Entity Relationship Design (ERD)  
+- Software Architecture  
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Design Patterns
 
 ---
 
