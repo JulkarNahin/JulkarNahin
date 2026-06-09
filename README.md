@@ -7,8 +7,6 @@
 
 ## 👨‍💻 About Me
 
-```
-
 ![Role](https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge)
 ![Specialization](https://img.shields.io/badge/Specialization-Vue.js%2C%20Pinia%2C%20PHP%2C%20MySQL%2C%20Node.js%2C%20Express.js-blue?style=for-the-badge)
 ![Passion](https://img.shields.io/badge/Passion-Software%20Architecture%20%26%20System%20Design%2C%20Application%20Development%2C%20Game%20Dev%2C%20DSA%2C%20AI%2FML-blue?style=for-the-badge)
@@ -16,7 +14,6 @@
 ![Learning Focus](https://img.shields.io/badge/Learning_Focus-Advanced%20Software%20Engineering%20%26%20System%20Design-orange?style=for-the-badge)
 ![Ask Me About](https://img.shields.io/badge/Ask_Me_About-Web%20Dev%2C%20REST%20APIs%2C%20Databases%2C%20DSA-orange?style=for-the-badge)
 
-```
 ---
 
 ## 🛠 Tech Stack & Toolkit
